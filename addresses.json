@@ -1,0 +1,10 @@
+{
+  "addresses": {
+    "neutron-1": "neutron1lzecpea0qxw5xae92xkm3vaddeszr278k7w20c",
+    "osmosis-1": "osmo1lzecpea0qxw5xae92xkm3vaddeszr278665crd",
+    "phoenix-1": "terra1w7mtx2g478kkhs6pgynpcjpt6aw4930q34j36v",
+    "stargaze-1": "stars1lzecpea0qxw5xae92xkm3vaddeszr278xas47w",
+    "cosmoshub-4": "cosmos1lzecpea0qxw5xae92xkm3vaddeszr278jp8g4l",
+    "stride-1": "stride1lzecpea0qxw5xae92xkm3vaddeszr2783285pn"
+  }
+}
